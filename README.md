@@ -1,2 +1,2 @@
 # SanformationDashboard
-This is the dashboard and docs page for Sanformation
+This is the dashboard and docs page for Sanformation.
